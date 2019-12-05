@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1575555598 source:c:\users\alumno\desktop\rec 1º parcial\llamadas.c
+	<stdio.h>
+	<stdlib.h>
+	"Llamadas.h"
+	"Persona.h"
+
+1575553670 c:\users\alumno\desktop\rec 1º parcial\llamadas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575555547 source:c:\users\alumno\desktop\rec 1º parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Llamadas.h"
+	"Persona.h"
+
+1575555513 c:\users\alumno\desktop\rec 1º parcial\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575556411 source:c:\users\alumno\desktop\rec 1º parcial\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"Persona.h"
+
